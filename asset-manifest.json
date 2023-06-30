@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tutorial-app/static/css/main.6ff957e6.css",
-    "main.js": "/Tutorial-app/static/js/main.bcfc047b.js",
-    "index.html": "/Tutorial-app/index.html",
-    "main.6ff957e6.css.map": "/Tutorial-app/static/css/main.6ff957e6.css.map",
-    "main.bcfc047b.js.map": "/Tutorial-app/static/js/main.bcfc047b.js.map"
+    "main.css": "/Metme/static/css/main.6ff957e6.css",
+    "main.js": "/Metme/static/js/main.bcfc047b.js",
+    "index.html": "/Metme/index.html",
+    "main.6ff957e6.css.map": "/Metme/static/css/main.6ff957e6.css.map",
+    "main.bcfc047b.js.map": "/Metme/static/js/main.bcfc047b.js.map"
   },
   "entrypoints": [
     "static/css/main.6ff957e6.css",
